@@ -1,5 +1,5 @@
 # Wikipedia
-Fast Browsing for Wikipedia.
+Fast Browsing for Wikipedia. [Try this](http://zeyadetman.me/Wikipedia/)
 
 ## NOTE
 if you faced some issues about CORS, try to open chrome that way:
