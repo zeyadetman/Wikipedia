@@ -56,3 +56,40 @@ body {
 .container:hover .overlay {
     width: 40%;
 }
+
+.searchsec {
+    margin: 5% auto;
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    border: none;
+    font-size: 2em;
+    border-bottom: 4px solid #ffcc33;
+    background-color: white;
+    padding: 10px;
+}
+
+.searchquery {
+    border: none;
+    width: 90%;
+}
+
+.searchquery:hover,
+.searchquery:focus {
+    outline: none;
+}
+
+.searchbtn:hover {
+    cursor: pointer;
+}
+
+.item img {
+    width: 100%;
+    height: 100px;
+}
+
+.item {
+    border: 2px dotted #ffcc33;
+    padding: 5px;
+    height: 300px;
+}
